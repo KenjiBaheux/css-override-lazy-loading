@@ -45,3 +45,7 @@ Allow web developers to give hints to the user agent about which assets matter.
 
 
 In which case the user agent can infer that actively downloading *Open Sans 400* as well as *awesome.png* should pay off.
+
+
+#Contributors#
+With advices/contributions from: Tab Atkins, Ilya Grigorik, David Kuettel.
